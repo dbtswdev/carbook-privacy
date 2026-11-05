@@ -1,0 +1,38 @@
+CarBook est le lecteur de vos livres audio : choisissez un dossier, appuyez sur lecture et reprenez toujours à l'endroit exact, sur votre téléphone et en voiture avec Android Auto.
+
+Sans compte, sans abonnement et sans publicité. Vos fichiers restent à vous et restent sur votre appareil.
+
+🔹 Reprenez là où vous vous êtes arrêté
+Chaque livre retient la piste et la position exacte. Reprenez même en appuyant sur lecture depuis votre casque ou le Bluetooth de la voiture, sans ouvrir l'application.
+
+🔹 Bibliothèque automatique
+Choisissez un dossier : chaque sous-dossier devient un livre, dans le bon ordre même pour les coffrets de plusieurs disques. Vous pouvez aussi importer des fichiers isolés, regroupés par album. Les nouveaux dossiers s'ajoutent à ceux que vous avez déjà.
+
+🔹 Organisée à votre façon
+Regroupez les livres par auteur et voyez ceux en cours et ceux terminés. Les couvertures sont lues dans le dossier du livre.
+
+🔹 Chapitres
+CarBook reconnaît les chapitres intégrés aux fichiers MP3 (ID3) et M4B/M4A et vous permet de passer de l'un à l'autre.
+
+🔹 Vitesse d'écoute
+De 0.8x à 2x d'un simple geste. La vitesse choisie est mémorisée.
+
+🔹 Minuterie de veille
+De 5 à 60 minutes ou en fin de piste, avec un fondu final : vous vous endormez et le son s'arrête tout seul.
+
+🔹 Des sauts sur mesure
+Choisissez la longueur des sauts en avant et en arrière : 5, 10, 15, 30 ou 60 secondes.
+
+🔹 Android Auto
+Parcourez votre bibliothèque sur l'écran de la voiture avec les catégories Continuer l'écoute, Récents et Tous les livres, cherchez à la voix et utilisez des commandes dédiées pour les sauts, les chapitres, la vitesse et la minuterie.
+
+🔹 Confidentialité
+Pas d'inscription, aucune donnée collectée par le développeur, aucun suivi. CarBook n'accède qu'aux dossiers et fichiers que vous choisissez.
+
+🔹 Formats
+MP3, M4A, M4B, OGG, OPUS, FLAC, AAC et WAV.
+
+🔹 Langues
+Italien, anglais, espagnol, français et allemand.
+
+Remarque : CarBook ne vend ni n'inclut de livres audio et ne lit pas les fichiers protégés par DRM. Il lit les fichiers audio que vous possédez déjà.

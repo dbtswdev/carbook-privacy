@@ -1,0 +1,1 @@
+Première version de CarBook : bibliothèque depuis dossiers et fichiers, reprise automatique, chapitres, vitesse, minuterie de veille et Android Auto.

@@ -1,0 +1,1 @@
+First release of CarBook: library from folders and files, automatic resume, chapters, speed, sleep timer and Android Auto.

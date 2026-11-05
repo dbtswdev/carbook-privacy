@@ -1,0 +1,1 @@
+Erste Version von CarBook: Bibliothek aus Ordnern und Dateien, automatisches Fortsetzen, Kapitel, Tempo, Schlummerfunktion und Android Auto.

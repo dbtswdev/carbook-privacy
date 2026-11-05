@@ -1,0 +1,5 @@
+01: Player mit dem Cover von Moby Dick, aktuellem Kapitel, Tempo 1.25x und Wiedergabetasten
+02: Hörbuch-Bibliothek nach Autor gruppiert, mit Covern und Dauer
+03: Dialog der Schlummerfunktion mit Dauern von 5 bis 60 Minuten und Titelende
+04: Player mit aktivem Timer und aktuellem Kapitel von I promessi sposi
+05: Dialog zur Wahl der Sprungweite, von 5 bis 60 Sekunden

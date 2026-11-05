@@ -1,0 +1,38 @@
+CarBook is the player for your own audiobooks: pick a folder, press play and always continue from your exact spot, on your phone and in the car with Android Auto.
+
+No account, no subscription, no ads. Your files stay yours and stay on your device.
+
+🔹 Pick up where you left off
+Every book remembers its track and exact position. Resume even by pressing play on your headphones or your car's Bluetooth, without opening the app.
+
+🔹 Automatic library
+Pick a folder: each subfolder becomes a book, in the right order even for multi-disc sets. You can also import single files, grouped by album. New folders are added to the ones you already have.
+
+🔹 Organized your way
+Group books by author and see what's in progress and what you've finished. Covers are read from the book's folder.
+
+🔹 Chapters
+CarBook recognizes chapters embedded in MP3 (ID3) and M4B/M4A files and lets you jump between them.
+
+🔹 Listening speed
+From 0.8x to 2x with one tap. Your chosen speed is remembered.
+
+🔹 Sleep timer
+From 5 to 60 minutes or at the end of the track, with a gentle fade: fall asleep and the audio stops on its own.
+
+🔹 Skips that fit you
+Choose how far to skip back and forward: 5, 10, 15, 30 or 60 seconds.
+
+🔹 Android Auto
+Browse your library on the car screen with the Continue listening, Recent and All books categories, search by voice, and use dedicated controls for skips, chapters, speed and timer.
+
+🔹 Privacy
+No sign-up, no data collected by the developer, no tracking. CarBook only accesses the folders and files you choose.
+
+🔹 Formats
+MP3, M4A, M4B, OGG, OPUS, FLAC, AAC and WAV.
+
+🔹 Languages
+Italian, English, Spanish, French and German.
+
+Note: CarBook does not sell or include audiobooks and does not play DRM-protected files. It plays the audio files you already own.

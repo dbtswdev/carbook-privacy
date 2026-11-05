@@ -1,0 +1,5 @@
+01: Player showing the Moby Dick cover, current chapter, 1.25x speed and playback controls
+02: Audiobook library grouped by author, with covers and durations
+03: Sleep timer dialog with durations from 5 to 60 minutes and end of track
+04: Player with an active timer and the current chapter of I promessi sposi
+05: Dialog for choosing the skip length, from 5 to 60 seconds

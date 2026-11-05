@@ -1,0 +1,5 @@
+01: Lecteur avec la couverture de Moby Dick, le chapitre en cours, la vitesse 1.25x et les commandes de lecture
+02: Bibliothèque de livres audio regroupée par auteur, avec couvertures et durées
+03: Fenêtre de la minuterie de veille avec des durées de 5 à 60 minutes et fin de piste
+04: Lecteur avec minuterie active et chapitre en cours de I promessi sposi
+05: Fenêtre de choix de la longueur des sauts, de 5 à 60 secondes

@@ -1,0 +1,1 @@
+Prima versione di CarBook: libreria da cartelle e file, ripresa automatica, capitoli, velocità, timer di spegnimento e Android Auto.

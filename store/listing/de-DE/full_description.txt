@@ -1,0 +1,38 @@
+CarBook ist der Player für deine eigenen Hörbücher: Ordner wählen, Play drücken und immer genau an der richtigen Stelle weiterhören, auf dem Handy und im Auto mit Android Auto.
+
+Kein Konto, kein Abo, keine Werbung. Deine Dateien bleiben deine und bleiben auf deinem Gerät.
+
+🔹 Genau dort weiterhören
+Jedes Buch merkt sich den Titel und die genaue Position. Setze die Wiedergabe sogar mit der Play-Taste am Kopfhörer oder über das Bluetooth im Auto fort, ohne die App zu öffnen.
+
+🔹 Automatische Bibliothek
+Wähle einen Ordner: Jeder Unterordner wird zu einem Buch, in der richtigen Reihenfolge auch bei Sammlungen mit mehreren CDs. Du kannst auch einzelne Dateien importieren, nach Album gruppiert. Neue Ordner kommen zu den vorhandenen hinzu.
+
+🔹 Geordnet, wie du willst
+Gruppiere Bücher nach Autor und sieh, was du gerade hörst und was du beendet hast. Cover werden aus dem Ordner des Buchs gelesen.
+
+🔹 Kapitel
+CarBook erkennt Kapitel, die in MP3-Dateien (ID3) und M4B/M4A-Dateien eingebettet sind, und lässt dich zwischen ihnen springen.
+
+🔹 Wiedergabetempo
+Von 0.8x bis 2x mit einem Fingertipp. Das gewählte Tempo wird gespeichert.
+
+🔹 Schlummerfunktion
+Von 5 bis 60 Minuten oder am Titelende, mit sanftem Ausblenden: Du schläfst ein und der Ton stoppt von selbst.
+
+🔹 Sprünge nach Maß
+Wähle, wie weit du vor- und zurückspringst: 5, 10, 15, 30 oder 60 Sekunden.
+
+🔹 Android Auto
+Durchsuche deine Bibliothek auf dem Autodisplay mit den Kategorien Weiterhören, Zuletzt gehört und Alle Bücher, suche per Sprache und nutze eigene Tasten für Sprünge, Kapitel, Tempo und Timer.
+
+🔹 Datenschutz
+Keine Registrierung, keine vom Entwickler erhobenen Daten, kein Tracking. CarBook greift nur auf die Ordner und Dateien zu, die du auswählst.
+
+🔹 Formate
+MP3, M4A, M4B, OGG, OPUS, FLAC, AAC und WAV.
+
+🔹 Sprachen
+Italienisch, Englisch, Spanisch, Französisch und Deutsch.
+
+Hinweis: CarBook verkauft oder enthält keine Hörbücher und spielt keine DRM-geschützten Dateien ab. Es spielt die Audiodateien ab, die du bereits besitzt.

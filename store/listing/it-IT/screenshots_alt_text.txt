@@ -1,0 +1,5 @@
+01: Lettore con copertina di Moby Dick, capitolo corrente, velocità 1.25x e comandi di riproduzione
+02: Libreria di audiolibri raggruppata per autore, con copertine e durata
+03: Finestra del timer di spegnimento con durate da 5 a 60 minuti e fine traccia
+04: Lettore con timer attivo e capitolo corrente del libro I promessi sposi
+05: Finestra per scegliere l'ampiezza dei salti, da 5 a 60 secondi

@@ -1,0 +1,26 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>CarBook</title><style>
+:root{color-scheme:light dark;--bg:#fafafa;--fg:#1a1a22;--muted:#666;--line:#dcdce2;--accent:#8a6e22}
+@media(prefers-color-scheme:dark){:root{--bg:#0f0f14;--fg:#fafafa;--muted:#9e9eae;--line:#3a3a48;--accent:#e8bf5a}}
+*{box-sizing:border-box}
+body{margin:0;padding:2rem 1rem;background:var(--bg);color:var(--fg);line-height:1.7;
+font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif}
+main{max-width:720px;margin:0 auto}
+h1{font-size:1.8rem;line-height:1.25;margin:0 0 .25rem}
+h2{font-size:1.15rem;margin:2rem 0 .4rem;color:var(--accent)}
+p{margin:0 0 .75rem}a{color:var(--accent)}
+.sub{color:var(--muted);font-size:.95rem;margin-bottom:1.5rem}
+nav{display:flex;flex-wrap:wrap;gap:.5rem;margin-bottom:2rem}
+nav a{padding:.35rem .75rem;border:1px solid var(--line);border-radius:6px;text-decoration:none;color:var(--fg);font-size:.85rem}
+nav a.on{background:var(--accent);border-color:var(--accent);color:var(--bg)}
+section{display:none}section.on{display:block}
+footer{margin-top:3rem;padding-top:1rem;border-top:1px solid var(--line);color:var(--muted);font-size:.85rem}
+</style></head><body><main><nav><a href="?lang=en" data-l="en">English</a><a href="?lang=it" data-l="it">Italiano</a><a href="?lang=es" data-l="es">Español</a><a href="?lang=fr" data-l="fr">Français</a><a href="?lang=de" data-l="de">Deutsch</a></nav><section data-l="en" class=on><h1>CarBook</h1><p>Legal documents and store materials for CarBook, an audiobook player for Android and Android Auto.</p><p><a href="privacy-policy.html?lang=en">Privacy Policy</a></p><p><a href="eula.html?lang=en">End User License Agreement</a></p></section><section data-l="it"><h1>CarBook</h1><p>Documenti legali e materiali dello store per CarBook, lettore di audiolibri per Android e Android Auto.</p><p><a href="privacy-policy.html?lang=it">Informativa sulla privacy</a></p><p><a href="eula.html?lang=it">Contratto di licenza con l&#x27;utente finale</a></p></section><section data-l="es"><h1>CarBook</h1><p>Documentos legales y materiales de la tienda de CarBook, reproductor de audiolibros para Android y Android Auto.</p><p><a href="privacy-policy.html?lang=es">Política de privacidad</a></p><p><a href="eula.html?lang=es">Contrato de licencia de usuario final</a></p></section><section data-l="fr"><h1>CarBook</h1><p>Documents juridiques et éléments de la boutique pour CarBook, lecteur de livres audio pour Android et Android Auto.</p><p><a href="privacy-policy.html?lang=fr">Politique de confidentialité</a></p><p><a href="eula.html?lang=fr">Contrat de licence utilisateur final</a></p></section><section data-l="de"><h1>CarBook</h1><p>Rechtliche Dokumente und Store-Materialien für CarBook, einen Hörbuch-Player für Android und Android Auto.</p><p><a href="privacy-policy.html?lang=de">Datenschutzerklärung</a></p><p><a href="eula.html?lang=de">Endbenutzer-Lizenzvereinbarung</a></p></section><footer>&copy; 2026 Tommaso Di Biase — CarBook</footer></main><script>
+var codes=['en','it','es','fr','de'];
+function pick(){var q=new URLSearchParams(location.search).get('lang');if(codes.indexOf(q)>=0)return q;
+var n=(navigator.language||'en').slice(0,2);return codes.indexOf(n)>=0?n:'en'}
+function show(l){document.documentElement.lang=l;
+document.querySelectorAll('section,nav a').forEach(function(e){e.classList.toggle('on',e.dataset.l===l)})}
+document.querySelectorAll('nav a').forEach(function(a){a.addEventListener('click',function(e){e.preventDefault();
+history.replaceState(null,'','?lang='+a.dataset.l);show(a.dataset.l)})});
+show(pick());
+</script></body></html>

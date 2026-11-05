@@ -1,0 +1,5 @@
+01: Reproductor con la portada de Moby Dick, el capítulo actual, velocidad 1.25x y controles de reproducción
+02: Biblioteca de audiolibros agrupada por autor, con portadas y duración
+03: Ventana del temporizador de apagado con duraciones de 5 a 60 minutos y final de pista
+04: Reproductor con temporizador activo y el capítulo actual de I promessi sposi
+05: Ventana para elegir la longitud de los saltos, de 5 a 60 segundos
