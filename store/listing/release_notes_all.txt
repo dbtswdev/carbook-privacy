@@ -1,15 +1,15 @@
 <it-IT>
-Prima versione di CarBook: libreria da cartelle e file, ripresa automatica, capitoli, velocità, timer di spegnimento e Android Auto.
+Prima versione di CarBook: libreria a cartelle dal telefono o dal cloud, ripresa dal punto esatto, passaggio automatico al file successivo, download per ascoltare offline, capitoli, velocità, timer di spegnimento e Android Auto.
 </it-IT>
 <en-US>
-First release of CarBook: library from folders and files, automatic resume, chapters, speed, sleep timer and Android Auto.
+First release of CarBook: a folder library from your phone or the cloud, resume from your exact spot, automatic move to the next file, downloads for offline listening, chapters, speed, sleep timer and Android Auto.
 </en-US>
 <es-ES>
-Primera versión de CarBook: biblioteca desde carpetas y archivos, reanudación automática, capítulos, velocidad, temporizador de apagado y Android Auto.
+Primera versión de CarBook: biblioteca por carpetas desde el móvil o la nube, reanudación en el punto exacto, paso automático al archivo siguiente, descargas para escuchar sin conexión, capítulos, velocidad, temporizador de apagado y Android Auto.
 </es-ES>
 <fr-FR>
-Première version de CarBook : bibliothèque depuis dossiers et fichiers, reprise automatique, chapitres, vitesse, minuterie de veille et Android Auto.
+Première version de CarBook : bibliothèque par dossiers depuis le téléphone ou le cloud, reprise à l'endroit exact, passage automatique au fichier suivant, téléchargements pour l'écoute hors connexion, chapitres, vitesse, minuterie de veille et Android Auto.
 </fr-FR>
 <de-DE>
-Erste Version von CarBook: Bibliothek aus Ordnern und Dateien, automatisches Fortsetzen, Kapitel, Tempo, Schlummerfunktion und Android Auto.
+Erste Version von CarBook: Ordner-Bibliothek vom Handy oder aus der Cloud, Weiterhören an der genauen Stelle, automatischer Wechsel zur nächsten Datei, Downloads zum Offline-Hören, Kapitel, Tempo, Schlummerfunktion und Android Auto.
 </de-DE>

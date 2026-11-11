@@ -1,5 +1,7 @@
-01: Player showing the Moby Dick cover, current chapter, 1.25x speed and playback controls
-02: Audiobook library grouped by author, with covers and durations
-03: Sleep timer dialog with durations from 5 to 60 minutes and end of track
-04: Player with an active timer and the current chapter of I promessi sposi
-05: Dialog for choosing the skip length, from 5 to 60 seconds
+01: Player showing the Moby Dick cover, file 02 playing, the chapter "The Street", 1.25x speed and playback controls
+02: Library open on the Audiobooks folder: eight book folders named "Author - Title" and the now-playing bar at the bottom
+03: Files in the Moby Dick folder: the first labeled Completed, the second half-heard and loaded in the player, the third not started yet
+04: Sleep timer dialog with durations from 5 to 60 minutes and end of track
+05: Player with the sleep timer active, 29:51 remaining, and the current chapter
+06: Side menu with Library, Player, Downloads, Settings and About
+07: Settings dialog for choosing the skip length: 5, 10, 15, 30 or 60 seconds

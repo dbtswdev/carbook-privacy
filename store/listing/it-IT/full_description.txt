@@ -1,18 +1,27 @@
-CarBook è il lettore per i tuoi audiolibri: scegli una cartella, premi play e riprendi sempre dal punto esatto, sul telefono e in auto con Android Auto.
+CarBook è il lettore per i tuoi audiolibri: aggiungi le tue cartelle, premi play e riprendi sempre dal punto esatto, sul telefono e in auto con Android Auto.
 
-Niente account, niente abbonamenti, niente pubblicità. I file restano tuoi e sul tuo dispositivo.
+Niente account, niente abbonamenti, niente pubblicità. I file restano tuoi, dove li tieni tu: CarBook non li modifica, non li sposta, non li rinomina e non li cancella.
 
 🔹 Riprendi da dove eri rimasto
-Ogni libro ricorda la traccia e la posizione esatta. Riprendi anche premendo play dalle cuffie o dal Bluetooth dell'auto, senza aprire l'app.
+Ogni file ricorda la posizione esatta. Riprendi anche premendo play dalle cuffie o dal Bluetooth dell'auto, senza aprire l'app.
 
-🔹 Libreria automatica
-Scegli una cartella: ogni sottocartella diventa un libro, con ordine corretto anche per le raccolte su più dischi. Puoi anche importare singoli file, raggruppati per album. Le nuove cartelle si aggiungono a quelle che hai già.
+🔹 Una libreria fatta come le tue cartelle
+Dal menu ⋮ scegli Aggiungi cartella o Aggiungi file: dalla memoria del telefono o da una cartella cloud, come Google Drive, se compare nel selettore di Android. Le cartelle restano come le hai organizzate e le sfogli un livello alla volta. Con Sincronizza aggiorni una cartella quando ci metti nuovi file.
 
-🔹 Ordinata a modo tuo
-Raggruppa i libri per autore, vedi cosa è in corso e cosa hai finito. Le copertine vengono lette dalla cartella del libro.
+🔹 Un file dopo l'altro
+Tocca un file e parte. Alla fine comincia da solo il successivo della stessa cartella: quelli completati vengono saltati, quelli lasciati a metà riprendono da dove eri, e a fine cartella la riproduzione si ferma.
 
-🔹 Capitoli
-CarBook riconosce i capitoli integrati nei file MP3 (ID3) e M4B/M4A e ti fa saltare da uno all'altro.
+🔹 Sai sempre a che punto sei
+Ogni file mostra la barra di avanzamento e l'etichetta Completato. Puoi segnare un file come completato, anche dal lettore, eliminare da CarBook quello che non ti serve (i file restano al loro posto e li ritrovi con Mostra eliminati) e togliere in un colpo tutti i completati.
+
+🔹 Scarica e ascolta offline
+I file nel cloud si scaricano uno alla volta o una cartella intera, e poi si ascoltano senza rete. Se non cambi l'opzione, i download partono solo in Wi-Fi. Nella pagina Download vedi quanto spazio occupano e liberi quello che vuoi.
+
+🔹 Streaming senza pause
+Per i file nel cloud che non scarichi c'è una cache con il limite che scegli tu, da 512 MB a 5 GB. Verso la fine di un file l'inizio del successivo è già pronto, così non ci sono pause. La cache dei file completati si libera da sola.
+
+🔹 Capitoli e copertine
+CarBook riconosce i capitoli integrati nei file MP3 (ID3) e M4B/M4A e ti fa saltare da uno all'altro. La copertina è l'immagine che trova nella cartella o quella incorporata nel file.
 
 🔹 Velocità di ascolto
 Da 0.8x a 2x, con un tocco. La velocità scelta viene ricordata.
@@ -21,13 +30,13 @@ Da 0.8x a 2x, con un tocco. La velocità scelta viene ricordata.
 Da 5 a 60 minuti oppure a fine traccia, con dissolvenza finale: ti addormenti e l'audio si ferma da solo.
 
 🔹 Salti su misura
-Scegli quanto saltare avanti e indietro: 5, 10, 15, 30 o 60 secondi.
+Scegli nelle Opzioni quanto saltare avanti e indietro: 5, 10, 15, 30 o 60 secondi.
 
 🔹 Android Auto
-Sfoglia la libreria sullo schermo dell'auto con le categorie Continua ad ascoltare, Recenti e Tutti i libri, cerca con la voce e usa i comandi dedicati per salti, capitoli, velocità e timer.
+Sfoglia le stesse cartelle sullo schermo dell'auto, cerca con la voce e usa i comandi dedicati per salti, capitoli, velocità e timer. Vedi subito cosa hai completato e cosa hai scaricato. Quando colleghi l'auto, l'ultimo file è già caricato in pausa: premi play e riparti da dove eri, senza che nulla parta da solo.
 
 🔹 Privacy
-Nessuna registrazione, nessun dato raccolto dallo sviluppatore, nessun tracciamento. CarBook accede solo a cartelle e file che scegli tu.
+Nessuna registrazione, nessun dato raccolto dallo sviluppatore, nessun tracciamento. CarBook accede solo a cartelle e file che scegli tu e usa la rete solo per raggiungere il tuo cloud.
 
 🔹 Formati
 MP3, M4A, M4B, OGG, OPUS, FLAC, AAC e WAV.

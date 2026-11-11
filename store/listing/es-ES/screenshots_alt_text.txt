@@ -1,5 +1,7 @@
-01: Reproductor con la portada de Moby Dick, el capítulo actual, velocidad 1.25x y controles de reproducción
-02: Biblioteca de audiolibros agrupada por autor, con portadas y duración
-03: Ventana del temporizador de apagado con duraciones de 5 a 60 minutos y final de pista
-04: Reproductor con temporizador activo y el capítulo actual de I promessi sposi
-05: Ventana para elegir la longitud de los saltos, de 5 a 60 segundos
+01: Reproductor con la portada de Moby Dick, el archivo 02 en reproducción, el capítulo "The Street", velocidad 1.25x y controles de reproducción
+02: Biblioteca abierta en la carpeta Audiobooks: ocho carpetas de libros con nombre "Autor - Título" y, abajo, la barra del archivo en reproducción
+03: Archivos de la carpeta Moby Dick: el primero con la etiqueta Completado, el segundo escuchado a medias y cargado en el reproductor, el tercero sin empezar
+04: Ventana del temporizador de apagado con duraciones de 5 a 60 minutos y fin de la pista
+05: Reproductor con el temporizador de apagado activo, 29:51 restantes, y el capítulo actual
+06: Menú lateral con Biblioteca, Reproductor, Descargas, Ajustes e Información
+07: Ventana de Ajustes para elegir la longitud de los saltos: 5, 10, 15, 30 o 60 segundos

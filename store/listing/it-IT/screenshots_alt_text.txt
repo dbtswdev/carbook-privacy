@@ -1,5 +1,7 @@
-01: Lettore con copertina di Moby Dick, capitolo corrente, velocità 1.25x e comandi di riproduzione
-02: Libreria di audiolibri raggruppata per autore, con copertine e durata
-03: Finestra del timer di spegnimento con durate da 5 a 60 minuti e fine traccia
-04: Lettore con timer attivo e capitolo corrente del libro I promessi sposi
-05: Finestra per scegliere l'ampiezza dei salti, da 5 a 60 secondi
+01: Lettore con la copertina di Moby Dick, il file 02 in riproduzione, il capitolo "The Street", velocità 1.25x e comandi di riproduzione
+02: Libreria aperta sulla cartella Audiobooks: otto cartelle di libri con nome "Autore - Titolo" e, in basso, la barra del file in ascolto
+03: File della cartella Moby Dick: il primo con l'etichetta Completato, il secondo ascoltato a metà e caricato nel lettore, il terzo non ancora iniziato
+04: Finestra del timer di spegnimento con durate da 5 a 60 minuti e fine traccia
+05: Lettore con il timer di spegnimento attivo, 29:51 rimanenti, e il capitolo corrente
+06: Menu laterale con le voci Libreria, Player, Download, Opzioni e Info
+07: Finestra delle Opzioni per scegliere l'ampiezza dei salti: 5, 10, 15, 30 o 60 secondi

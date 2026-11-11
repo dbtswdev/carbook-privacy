@@ -1,18 +1,27 @@
-CarBook ist der Player für deine eigenen Hörbücher: Ordner wählen, Play drücken und immer genau an der richtigen Stelle weiterhören, auf dem Handy und im Auto mit Android Auto.
+CarBook ist der Player für deine eigenen Hörbücher: Ordner hinzufügen, Play drücken und immer genau an der richtigen Stelle weiterhören, auf dem Handy und im Auto mit Android Auto.
 
-Kein Konto, kein Abo, keine Werbung. Deine Dateien bleiben deine und bleiben auf deinem Gerät.
+Kein Konto, kein Abo, keine Werbung. Deine Dateien bleiben deine und bleiben, wo sie sind: CarBook verändert, verschiebt und löscht sie nie und benennt sie nicht um.
 
 🔹 Genau dort weiterhören
-Jedes Buch merkt sich den Titel und die genaue Position. Setze die Wiedergabe sogar mit der Play-Taste am Kopfhörer oder über das Bluetooth im Auto fort, ohne die App zu öffnen.
+Jede Datei merkt sich die genaue Position. Setze die Wiedergabe sogar mit der Play-Taste am Kopfhörer oder über das Bluetooth im Auto fort, ohne die App zu öffnen.
 
-🔹 Automatische Bibliothek
-Wähle einen Ordner: Jeder Unterordner wird zu einem Buch, in der richtigen Reihenfolge auch bei Sammlungen mit mehreren CDs. Du kannst auch einzelne Dateien importieren, nach Album gruppiert. Neue Ordner kommen zu den vorhandenen hinzu.
+🔹 Eine Bibliothek wie deine Ordner
+Wähle im Menü ⋮ Ordner hinzufügen oder Dateien hinzufügen: aus dem Handyspeicher oder aus einem Cloud-Ordner wie Google Drive, wenn er in der Android-Auswahl erscheint. Die Ordner bleiben so, wie du sie angelegt hast, und du gehst sie Ebene für Ebene durch. Synchronisieren bringt einen Ordner auf den neuesten Stand, wenn neue Dateien dazukommen.
 
-🔹 Geordnet, wie du willst
-Gruppiere Bücher nach Autor und sieh, was du gerade hörst und was du beendet hast. Cover werden aus dem Ordner des Buchs gelesen.
+🔹 Datei für Datei
+Tippe auf eine Datei und sie läuft. Am Ende startet die nächste im selben Ordner von allein: Abgeschlossene Dateien werden übersprungen, angefangene gehen dort weiter, wo du warst, und am Ende des Ordners stoppt die Wiedergabe.
 
-🔹 Kapitel
-CarBook erkennt Kapitel, die in MP3-Dateien (ID3) und M4B/M4A-Dateien eingebettet sind, und lässt dich zwischen ihnen springen.
+🔹 Immer wissen, wo du stehst
+Jede Datei zeigt einen Fortschrittsbalken und das Label Abgeschlossen. Du kannst eine Datei als abgeschlossen markieren, auch im Player, Überflüssiges aus CarBook entfernen (die Dateien bleiben, wo sie sind, und kommen über Entfernte anzeigen zurück) und alles Abgeschlossene auf einmal entfernen.
+
+🔹 Herunterladen und offline hören
+Cloud-Dateien lädst du einzeln oder als ganzen Ordner herunter und hörst sie dann ohne Netz. Solange du die Einstellung nicht änderst, laufen Downloads nur über WLAN. Die Seite Downloads zeigt, wie viel Platz sie belegen, und gibt ihn auf Wunsch wieder frei.
+
+🔹 Streaming ohne Lücken
+Cloud-Dateien, die du nicht herunterlädst, laufen über einen Cache mit einem Limit, das du festlegst, von 512 MB bis 5 GB. Kurz vor dem Ende einer Datei ist der Anfang der nächsten schon geladen, es entsteht also keine Pause. Der Cache abgeschlossener Dateien wird automatisch geleert.
+
+🔹 Kapitel und Cover
+CarBook erkennt Kapitel, die in MP3-Dateien (ID3) und M4B/M4A-Dateien eingebettet sind, und lässt dich zwischen ihnen springen. Das Cover ist das Bild im Ordner oder das in die Datei eingebettete.
 
 🔹 Wiedergabetempo
 Von 0.8x bis 2x mit einem Fingertipp. Das gewählte Tempo wird gespeichert.
@@ -21,13 +30,13 @@ Von 0.8x bis 2x mit einem Fingertipp. Das gewählte Tempo wird gespeichert.
 Von 5 bis 60 Minuten oder am Titelende, mit sanftem Ausblenden: Du schläfst ein und der Ton stoppt von selbst.
 
 🔹 Sprünge nach Maß
-Wähle, wie weit du vor- und zurückspringst: 5, 10, 15, 30 oder 60 Sekunden.
+Lege in den Einstellungen fest, wie weit du vor- und zurückspringst: 5, 10, 15, 30 oder 60 Sekunden.
 
 🔹 Android Auto
-Durchsuche deine Bibliothek auf dem Autodisplay mit den Kategorien Weiterhören, Zuletzt gehört und Alle Bücher, suche per Sprache und nutze eigene Tasten für Sprünge, Kapitel, Tempo und Timer.
+Durchsuche dieselben Ordner auf dem Autodisplay, suche per Sprache und nutze eigene Tasten für Sprünge, Kapitel, Tempo und Timer. Du siehst auf einen Blick, was abgeschlossen und was heruntergeladen ist. Wenn du das Auto verbindest, ist deine letzte Datei schon geladen und pausiert: Drück auf Play und hör dort weiter, wo du aufgehört hast. Nichts startet von selbst.
 
 🔹 Datenschutz
-Keine Registrierung, keine vom Entwickler erhobenen Daten, kein Tracking. CarBook greift nur auf die Ordner und Dateien zu, die du auswählst.
+Keine Registrierung, keine vom Entwickler erhobenen Daten, kein Tracking. CarBook greift nur auf die Ordner und Dateien zu, die du auswählst, und geht nur online, um deine Cloud zu erreichen.
 
 🔹 Formate
 MP3, M4A, M4B, OGG, OPUS, FLAC, AAC und WAV.

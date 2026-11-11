@@ -1,5 +1,7 @@
-01: Player mit dem Cover von Moby Dick, aktuellem Kapitel, Tempo 1.25x und Wiedergabetasten
-02: Hörbuch-Bibliothek nach Autor gruppiert, mit Covern und Dauer
-03: Dialog der Schlummerfunktion mit Dauern von 5 bis 60 Minuten und Titelende
-04: Player mit aktivem Timer und aktuellem Kapitel von I promessi sposi
-05: Dialog zur Wahl der Sprungweite, von 5 bis 60 Sekunden
+01: Player mit dem Cover von Moby Dick, Datei 02 in Wiedergabe, Kapitel „The Street“, Tempo 1.25x und Wiedergabetasten
+02: Bibliothek im Ordner Audiobooks: acht Buchordner mit Namen „Autor - Titel“ und unten die Leiste der laufenden Datei
+03: Dateien im Ordner Moby Dick: die erste als Abgeschlossen markiert, die zweite zur Hälfte gehört und im Player geladen, die dritte noch nicht begonnen
+04: Dialog der Schlummerfunktion mit Dauern von 5 bis 60 Minuten und Ende des Titels
+05: Player mit aktiver Schlummerfunktion, 29:51 verbleibend, und aktuellem Kapitel
+06: Seitenmenü mit Bibliothek, Player, Downloads, Einstellungen und Info
+07: Dialog in den Einstellungen zur Wahl der Sprungweite: 5, 10, 15, 30 oder 60 Sekunden

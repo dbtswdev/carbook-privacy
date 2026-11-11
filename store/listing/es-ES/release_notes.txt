@@ -1,1 +1,1 @@
-Primera versión de CarBook: biblioteca desde carpetas y archivos, reanudación automática, capítulos, velocidad, temporizador de apagado y Android Auto.
+Primera versión de CarBook: biblioteca por carpetas desde el móvil o la nube, reanudación en el punto exacto, paso automático al archivo siguiente, descargas para escuchar sin conexión, capítulos, velocidad, temporizador de apagado y Android Auto.

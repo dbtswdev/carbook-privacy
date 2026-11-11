@@ -1,1 +1,1 @@
-First release of CarBook: library from folders and files, automatic resume, chapters, speed, sleep timer and Android Auto.
+First release of CarBook: a folder library from your phone or the cloud, resume from your exact spot, automatic move to the next file, downloads for offline listening, chapters, speed, sleep timer and Android Auto.

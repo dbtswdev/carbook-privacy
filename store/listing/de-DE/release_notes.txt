@@ -1,1 +1,1 @@
-Erste Version von CarBook: Bibliothek aus Ordnern und Dateien, automatisches Fortsetzen, Kapitel, Tempo, Schlummerfunktion und Android Auto.
+Erste Version von CarBook: Ordner-Bibliothek vom Handy oder aus der Cloud, Weiterhören an der genauen Stelle, automatischer Wechsel zur nächsten Datei, Downloads zum Offline-Hören, Kapitel, Tempo, Schlummerfunktion und Android Auto.
